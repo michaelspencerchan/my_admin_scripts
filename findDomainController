@@ -1,0 +1,6 @@
+function findDomainController {
+  Param $domain
+  Param $locationString
+
+
+}
